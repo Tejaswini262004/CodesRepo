@@ -1,2 +1,2 @@
-This is code repo
+This is code repository
 Edited for the first time
